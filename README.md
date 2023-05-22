@@ -9,3 +9,4 @@ GitHub with Terminal
 ## restore function
 * comando git push
 * comando git  pull
+* comando git fetch

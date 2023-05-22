@@ -7,3 +7,4 @@ GitHub with Terminal
 
 
 ## restore function
+* comando git push
